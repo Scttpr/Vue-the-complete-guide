@@ -1,5 +1,7 @@
 # Vue.js the complete guide by M.Schwarzmuller
 
+__NOTES PROVENANT DU COURS UDEMY "VUEJS 2 - THE COMPLETE GUIDE (incl. VUE ROUTER & VUEX) by M.SCHWARZMULLER__
+
 ## Our first Vue application
 
 > https://vuejs.org/v2/guide/installation.html
