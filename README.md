@@ -2,7 +2,7 @@
 
 ## Our first Vue application
 
-> vuejs.org
+> https://vuejs.org/v2/guide/installation.html
 
 * Il est possible de télécharger Vue.js ou d'utiliser un lien CDN à ajouter dans une balise script en début de fichier
 
@@ -18,7 +18,6 @@
   <!-- Pour intégrer la data double accolade et  clé de la data ! -->
   <p>{{ title }}</p> 
 </div>
-
 ```
 
 ### JS
@@ -52,5 +51,7 @@ new Vue({
 * Gestion du state
 * Déploiement d'une application VueJS
 
+## Installer VueJS en local
 
-
+Il est possible d'installer VueJS en local en téléchargeant le script depuis le site.
+Ensuite il faut l'ajouter dans le <head> du html pour importer le script
