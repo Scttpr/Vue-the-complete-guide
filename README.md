@@ -1,4 +1,4 @@
-# Vue.js the complete guide by M.Schwarzmuller
+# Vue.js the complete guide by M.Schwarzmuller.
 
 __Notes provenant du cours "VUEJS 2 - THE COMPLETE GUIDE (incl. VUE ROUTER & VUEX)" by M.SCHWARZMULLER__
 
